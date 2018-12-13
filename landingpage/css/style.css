@@ -1,0 +1,29 @@
+header.masthead {
+    
+    background: url(../img/adventure-beauty-blonde-hair-725255.jpg) no-repeat center center;
+    background-size: cover;
+    padding-top: 12rem;
+    padding-bottom:12rem;
+}
+body {
+    font-family: 'Kaushan Script';
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: 'Kaushan Script';
+    font-weight: 700;
+  }
+
+  .call-to-action {
+   
+    background: url(../img/chill-guy-high-tatras-91224.jpg) no-repeat top center;
+   
+    background-size: cover;
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+  }
