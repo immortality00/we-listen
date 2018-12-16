@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 class SignUpImage extends React.Component {
   render() {
@@ -7,9 +8,9 @@ class SignUpImage extends React.Component {
         <figure>
           <img src="images/signup-image.jpg" alt="sing up image" />
         </figure>
-        <a href="#" className="signup-image-link">
+        <Link to="login" clLinkssName="signup-image-link">
           I am already member
-        </a>
+        </Link>
       </div>
     );
   }

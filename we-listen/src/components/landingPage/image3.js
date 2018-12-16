@@ -7,7 +7,7 @@ class Image3 extends React.Component {
         <div
           className="col-lg-6 order-lg-2 text-white showcase-img"
           style={{
-            backgroundImage: 'url("img/beautiful-cute-face-1170654.jpg")'
+            backgroundImage: 'url("images/beautiful-cute-face-1170654.jpg")'
           }}
         />
         <div className="col-lg-6 order-lg-1 my-auto showcase-text">

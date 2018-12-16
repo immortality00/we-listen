@@ -8,9 +8,9 @@ class NavbarContainer extends React.Component {
         <a className="navbar-brand" href="#">
           WE LISTEN
         </a>
-        <a class="btn btn-primary" href="#">
+        <Link to="/login" className="btn btn-primary">
           Sign In
-        </a>
+        </Link>
       </div>
     );
   }

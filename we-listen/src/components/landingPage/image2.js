@@ -7,7 +7,7 @@ class Image2 extends React.Component {
         <div
           className="col-lg-6 text-white showcase-img"
           style={{
-            backgroundImage: 'url("img/blur-bright-bulbs-131023.jpg")'
+            backgroundImage: 'url("images/blur-bright-bulbs-131023.jpg")'
           }}
         />
         <div className="col-lg-6 my-auto showcase-text">

@@ -7,8 +7,8 @@ class Testimonial2 extends React.Component {
         <div className="testimonial-item mx-auto mb-5 mb-lg-0">
           <img
             className="img-fluid rounded-circle mb-3"
-            src="img/testimonials-2.jpg"
-            alt
+            src="images/testimonials-2.jpg"
+            alt="true"
           />
           <h5>Homer S.</h5>
           <p className="font-weight-light mb-0">

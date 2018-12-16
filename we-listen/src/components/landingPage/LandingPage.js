@@ -7,7 +7,7 @@ import Testimonials from "./testimonials";
 import CallToAction from "./call_to_action";
 import Footer from "./footer";
 
-class Main extends React.Component {
+class LandingPage extends React.Component {
   render() {
     return (
       <div className="Main">
@@ -31,4 +31,4 @@ class Main extends React.Component {
   }
 }
 
-export default Main;
+export default LandingPage;
